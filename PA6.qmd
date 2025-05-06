@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Gil Lazar, Hudson Pifer, Daniel Sebo
 format: html
 editor: visual
 
